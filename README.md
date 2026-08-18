@@ -89,6 +89,6 @@ GitHub 블로그(Jekyll)에 올릴 글은 `YYYY-MM-DD-english-slug.md` 형식으
 ## 알아둘 것
 
 > [!WARNING]
-> `blog-post`와 `til`은 결과물을 `/mnt/user-data/outputs/`에 저장하도록 쓰여 있다. claude.ai 환경 경로라서 로컬 Claude Code에는 없다. 로컬에서 쓰려면 각 `SKILL.md`의 저장 경로 섹션(`## 파일 저장`, `## 파일 다루기`)을 원하는 경로로 바꿔야 한다.
+> `create-post`와 `create-til`은 결과물을 `/mnt/user-data/outputs/`에 저장하도록 쓰여 있다. claude.ai 환경 경로라서 로컬 Claude Code에는 없다. 로컬에서 쓰려면 각 `SKILL.md`의 저장 경로 섹션(`## 파일 저장`, `## 파일 다루기`)을 원하는 경로로 바꿔야 한다.
 
 `til`은 대화가 끝나면 이전에 쓴 파일을 찾아오지 못한다. 같은 주제로 전에 쓴 파일이 있으면 대화에 같이 올려주면 이어서 쓴다.
